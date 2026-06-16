@@ -13,4 +13,7 @@ class Test{
     void display(){
         System.out.println("this is task1");
     }
+    int getNum(){
+        return (int)(Math.random()*10);
+    }
 }

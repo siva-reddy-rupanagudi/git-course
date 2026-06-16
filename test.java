@@ -1,4 +1,8 @@
 class Test{
+    //task2
+    void display(){
+        System.out.println("hey....this task2");
+    }
     static void main() {
         System.out.println("Hello world.....");
         String str="Siva";

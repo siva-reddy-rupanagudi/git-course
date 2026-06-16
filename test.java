@@ -7,5 +7,10 @@ class Test{
         System.out.println("Hello world.....");
         String str="Siva";
         int i=0;
+
+    }
+    //task1
+    void display(){
+        System.out.println("this is task1");
     }
 }
